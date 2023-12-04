@@ -8,3 +8,4 @@ In this course, I worked with:
 - Filter operators (WHERE, HAVING)
 
 My certify: [Link to Certification](https://stepik.org/cert/2261282?lang=en)
+ 
